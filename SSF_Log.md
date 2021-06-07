@@ -15,3 +15,9 @@
 * 1pm-2pm: Lunch
 * 2pm-3pm: Reef Solutions Seminar
 * 3pm-4pm: SSF Virtual Social
+
+## 06/07/21  
+* 9am-10am: Meeting with Chris Sherwood. Recorded weekly to do list. Installed Irfan Viewer and bookmarked nbviewer. 
+* 10am-11am: Review MI City NOAA GLERL webpage. Identified View 1 image 9 (19:03 EDT) as shifting relative to images 8 and 10 in the 06/06/2021 12-hour animation.
+* 11am-2pm: Created a jupyter notebook for practicing aligning images from the MI City light. Took a lunch break during that time
+* 2pm-3pm: Reviewed SurfRCat paper 'SurfRCat: A tool for remote calibration of pre-exsisting coastal cameras to enable their use a quantitative coastal monitoring tools"
