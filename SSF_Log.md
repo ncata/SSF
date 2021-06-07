@@ -22,3 +22,4 @@
 * 11am-2pm: Created a jupyter notebook for practicing aligning images from the MI City lighthouse. Took a lunch break during that time.
 * 2pm-3pm: Reviewed SurfRCat paper 'SurfRCat: A tool for remote calibration of pre-exsisting coastal cameras to enable their use a quantitative coastal monitoring tools" (Conlin et al., 2020). More precise data regarding lat, lon, elevation, and azimuth of GLERL webcams would be needed by LiDAR data should be available. 
 * 3pm-5pm: Reauthorized ArcGIS 10.7.1 licencse and created a rudimentary map showing the MI City GLERL webcam view #1. Continued reviewing GLERL webpage and exploring links-still unable to find archived photos past previous 10 days. Looked through SurfRCat repository again. 
+* 5pm-6pm: MATLAB Onramp training and reading chapters 1 and 2 of Pro Git.  
