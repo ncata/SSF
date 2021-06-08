@@ -20,11 +20,14 @@
 * 9am-10am: Meeting with Chris Sherwood. Recorded weekly to do list. Installed Irfan Viewer and bookmarked nbviewer.
 * 10am-11am: Review MI City NOAA GLERL webpage. Noted that coordinates provided are not precise enough to point to current or past webcam placement. Identified View 1 image 9 (06/06/2021 19:03 EDT) as shifting relative to images 8 and 10 in the 06/06/2021 12-hour animation. Noted disparity between archived image time and the time displayed on the image itself-probably the time between the photo being taken versus the time the photo was uploaded. First several photos in the 10 day archive were not accessible.
 * 11am-2pm: Created a jupyter notebook for practicing aligning images from the MI City lighthouse. Took a lunch break during that time.
-<<<<<<< HEAD
 * 2pm-3pm: Reviewed SurfRCat paper 'SurfRCat: A tool for remote calibration of pre-exsisting coastal cameras to enable their use a quantitative coastal monitoring tools" (Conlin et al., 2020). More precise data regarding lat, lon, elevation, and azimuth of GLERL webcams would be needed by LiDAR data should be available.
 * 3pm-5pm: Reauthorized ArcGIS 10.7.1 licencse and created a rudimentary map showing the MI City GLERL webcam view #1. Continued reviewing GLERL webpage and exploring links-still unable to find archived photos past previous 10 days. Looked through SurfRCat repository again.
-=======
-* 2pm-3pm: Reviewed SurfRCat paper 'SurfRCat: A tool for remote calibration of pre-exsisting coastal cameras to enable their use a quantitative coastal monitoring tools" (Conlin et al., 2020). More precise data regarding lat, lon, elevation, and azimuth of GLERL webcams would be needed by LiDAR data should be available. 
-* 3pm-5pm: Reauthorized ArcGIS 10.7.1 licencse and created a rudimentary map showing the MI City GLERL webcam view #1. Continued reviewing GLERL webpage and exploring links-still unable to find archived photos past previous 10 days. Looked through SurfRCat repository again. 
 * 5pm-6pm: MATLAB Onramp training and reading chapters 1 and 2 of Pro Git.  
->>>>>>> 64c9db7109fce371a98911cf3accc819688465df
+
+## 06/08/2021
+* 9am-10am: eQIP online background check
+* 10am-11am: Started lit reveiw of Argus stations
+* 11am-12:30pm: Woods Hole USGS Center Meeting
+* 1pm-2pm: Coastal Change and Hazards Group Seminar (Both meetings had great talks!)
+* 3:30pm-4:30pm: Finished Argus lit review
+* 4:30pm-6:30pm: MATLAB Onramp training/troubleshooting git error (Must remember to be update my local SSF_Log file before pulling changes I made remotely or vice versa)
