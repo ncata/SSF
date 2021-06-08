@@ -22,13 +22,3 @@
 * 11am-2pm: Created a jupyter notebook for practicing aligning images from the MI City lighthouse. Took a lunch break during that time.
 * 2pm-3pm: Reviewed SurfRCat paper 'SurfRCat: A tool for remote calibration of pre-exsisting coastal cameras to enable their use a quantitative coastal monitoring tools" (Conlin et al., 2020). More precise data regarding lat, lon, elevation, and azimuth of GLERL webcams would be needed by LiDAR data should be available.
 * 3pm-5pm: Reauthorized ArcGIS 10.7.1 licencse and created a rudimentary map showing the MI City GLERL webcam view #1. Continued reviewing GLERL webpage and exploring links-still unable to find archived photos past previous 10 days. Looked through SurfRCat repository again.
-
-## 06/08/21  
-* 9am-10am: e-QIP online background check documentation
-* 10am-11am: Literature review of "The history and technical capabilities of Argus" (Holman & Stanley, 2007)
-* 11am-12:30pm: Woods Hole USGS Center Meeting and presentation
-* 12:30pm-1pm: Lunch
-* 1pm-2pm: Coastal Change and Hazards Group seminar (great job team!)
-* 2pm-3:30pm: Break
-* 3:30pm-4:30pm: Continued literature review and emails
-* 4:30pm-6:30 MATLAB Onramp training
