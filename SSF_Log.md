@@ -31,3 +31,13 @@
 * 1pm-2pm: Coastal Change and Hazards Group Seminar (Both meetings had great talks!)
 * 3:30pm-4:30pm: Finished Argus lit review
 * 4:30pm-6:30pm: MATLAB Onramp training/troubleshooting git error (Must remember to be update my local SSF_Log file before pulling changes I made remotely or vice versa)
+
+## 06/09/2021
+* 9am-9:30am: Finished MATLAB Onramp training and reviewed provided course summaries.
+* 9:30am-11am: Updated calendar on outlook and continued practicing manipulating images using matplotlib and PIL in python on the Image_analysis_practice.ipynb.
+* 11am-12:10pm: SSF lecture, Ocean Heat Transfer and Arctic Amplification. (Super cool!)
+* 1pm-2pm: Emails, webinar registration, walked to Hardisty lab.
+* 2pm-2:30pm: Hardisty Lab Tour.
+* 2:30pm-3pm: Installed R, Rstudio, and Jupyter Lab for the upcoming data science workshops.
+* 3pm-5:30pm: Explored GLERL data products, metadata, Muskegon Webcam images, and searched for/noted surfcams not maintained by GLERL that could be used in SurfRCaT.
+* 7:30pm-9pm: Ocean Twilight Zone Webinar and SSF science communications discussion. 
