@@ -40,4 +40,19 @@
 * 2pm-2:30pm: Hardisty Lab Tour.
 * 2:30pm-3pm: Installed R, Rstudio, and Jupyter Lab for the upcoming data science workshops.
 * 3pm-5:30pm: Explored GLERL data products, metadata, Muskegon Webcam images, and searched for/noted surfcams not maintained by GLERL that could be used in SurfRCaT.
-* 7:30pm-9pm: Ocean Twilight Zone Webinar and SSF science communications discussion. 
+* 7:30pm-9pm: Ocean Twilight Zone Webinar and SSF science communications discussion.
+
+## 06/10/2021
+* 9am-11am: Meeting with Chris Sherwood. Recorded to-do list and began making the rgb2gray function in jupyter notebook. Must find how PIL uses grayscale (luminosity possibly)
+* 11am-12pm: Reviewed Great Lakes Environmental Research Laboratory (GLERL) Lake Michigan Field Station (LMFS) information. LMFS is located in Muskegon, MI. Based on the potential of support from GLERL due to 12 resident staff, proximity to Lansing, and webcam position(s) this is currently the /#1 field site prospect. Calibrated tech.
+* 1pm-2pm: Began working with .las files showing area surrounding LMFS from NOAA Digital Coast Dataviewer in CloudCompare. Began cross-referencing .las files with Google Earth Imagery. Briefly read USGS UTM fact sheet to re-familiarize myself with UTM coordinates/false northings.
+* 2pm-3:30pm: Machine Learning group meeting. Focus on condensing tools and increasing access for non-academic managers was really cool.
+* 3:30pm-5:35pm: Found an image of the LMFS com tower (alleged location of webcam). It seems offset from where I would have expected it to be based on images from View /#1. Completed CloudCompare tutorial. Ordered more .las files. Charted locations in my notes of points that I will use to attempt to derive the horizontal angle/potentially elevation of webcams with.
+
+## 06/11/2021
+* 9am-11am: SurfRCat review and tutorial. Must try at home with a wired internet connection to see if that helps at the "sorting tiles" phase of lidar download.
+* 11am-12pm: Notes on formulas and background information related to calculating a camera's horizontal angle of view (HAOV)
+* 12:30pm-1:30pm: Began researching and recording different ways of comparing two images in order to write an error metric function.
+* 1:30pm-2pm: SSF Meetup
+* 2pm-4pm: Reviewed stack overflow pages and the guides of PIL, matplotlib, SciPy, and sys to find useful modules and understand the code that was being recommended by stack overflow users. Read about transformation matrices.
+* 4pm-5pm: Compiled information in notes and tried to troubleshoot Git issue. It seems as if a file is stuck in the limbo of being committed even though it is no longer tracked and there are commands to remove the file also committed. Ultimately, Git is rejecting all push commands because a .las file exceeding 200mb is present in the files being pushed to Github.
