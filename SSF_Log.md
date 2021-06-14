@@ -63,3 +63,8 @@
 
 ## 06/13/21
 * 12:30pm-11pm (total working time ~6.5 hours): Reworked functions until all code returned with no errors. Was not able to accurately guess quiz image translations. the stooges function is held back by the black background that occurs during image translation in openCV. I am not sure why plot_corr is not working, but it may be that the scipy.signal.correlation2d() function sees too much similarity across the images.  
+
+## 06/14/21
+* 9am-10:30am: Meeting with Dr. Sherwood. Received weekly to do list and revealed/reviewed image alignment code.
+* 10:30am-12pm: cloned coastcam.py and coastcamfuncs and pulled updates to SSF_2021 and dash_doodler repos. Reviewed CIRN Understanding Image Geometrics Photogrammetry section.
+* 12:30pm-1:15pm: Completed notes on Photogrammetry. 
