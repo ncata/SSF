@@ -56,3 +56,10 @@
 * 1:30pm-2pm: SSF Meetup
 * 2pm-4pm: Reviewed stack overflow pages and the guides of PIL, matplotlib, SciPy, and sys to find useful modules and understand the code that was being recommended by stack overflow users. Read about transformation matrices.
 * 4pm-5pm: Compiled information in notes and tried to troubleshoot Git issue. It seems as if a file is stuck in the limbo of being committed even though it is no longer tracked and there are commands to remove the file also committed. Ultimately, Git is rejecting all push commands because a .las file exceeding 200mb is present in the files being pushed to Github.
+
+## 06/12/21
+* 12pm-12:30pm: Resolved git issue by resetting branch and reupdating SSF_Log
+* 12:30pm-4pm: Researched image translation, cross correlation, and began trying out code and writing functions in the jupyter notebook
+
+## 06/13/21
+* 12:30pm-11pm (total working time ~6.5 hours): Reworked functions until all code returned with no errors. Was not able to accurately guess quiz image translations. the stooges function is held back by the black background that occurs during image translation in openCV. I am not sure why plot_corr is not working, but it may be that the scipy.signal.correlation2d() function sees too much similarity across the images.  
