@@ -67,4 +67,6 @@
 ## 06/14/21
 * 9am-10:30am: Meeting with Dr. Sherwood. Received weekly to do list and revealed/reviewed image alignment code.
 * 10:30am-12pm: cloned coastcam.py and coastcamfuncs and pulled updates to SSF_2021 and dash_doodler repos. Reviewed CIRN Understanding Image Geometrics Photogrammetry section.
-* 12:30pm-1:15pm: Completed notes on Photogrammetry. 
+* 12:30pm-1:15pm: Completed notes on Photogrammetry.
+* 1:30pm-4pm: WHOI Software Carpentry Python Workshop: Went over using git bash and bash commands. Learned a few new tricks and had good review/background on how git works on basic level. 
+* 4pm-5pm: Installed Hydrogen package for Atom. Wrote questions and sorted them by importance (primary, secondary, tertiary) for Steve Ruberg meeting on Thursday morning. Filled out tentative hourly schedule for upcoming week.
