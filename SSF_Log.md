@@ -77,4 +77,13 @@
 * 3pm-4pm: Downloaded Muskegon GLERL images and made a presentation. Updated Muskegon LMFS notes. Made a few very fast "maps" from downloaded Google Earth images, did a quick dry run of slides content and review of webcam notes to prep for CoastCam meeting.
 * 4pm-5pm: CoastCam meeting. Introductions, what we want to learn from the group over the summer, and GL camera slides. Jenna brought up optical wave gauging as a potential use for the cameras. Muskegon could be a good test site because it has a ReCON buoy that collects wave data offshore of the cameras at a depth of 72 feet. This could be used to test the model.
 * 5pm-6pm: Renewed scouting of ReCON researched infrastructure, looking specifically for what buoys collected wave data. Must remember to make a new notes page to record this information. Thunder Bay island ReCON station has very interesting views of a rocky beach with a rock "bar" ("shoal?" must brush up on my coastal morphology) likely no deeper than chest depth. However, access to this site is difficult due to the necessity of a watercraft for access and distance from Lansing. Could be worth discussing with Dr. Sherwood/Steve Ruberg. MSU GEO dept.'s Theuerkauf Lab does have a boat on GLs. Fall research is in Lake Huron so I could try and reach out and see if the lab has already collected any data that could be useful/has plans to do so this summer.
-* 6pm-7pm: Set up defensive drivers course and got translation function to run, however it is not properly displaying the __main__ output in jupyter notebook so I will make a new notebook tomorrow to see if that will work better. 
+* 6pm-7pm: Set up defensive drivers course and got translation function to run, however it is not properly displaying the __main__ output in jupyter notebook so I will make a new notebook tomorrow to see if that will work better.
+
+## 06/16/2021
+* 9am-11am: Update SSF_Log, respond to emails, meeting with Chris Sherwood to discuss questions for meeting with Steve Ruberg tomorrow at 9am.
+* 11am-12pm: SSF Lecture-The Ocean Observatories Initiative (OOI): Building and deploying moorings to make long term measurements in the ocean. Very interesting talk about a variety of ocean observation systems, career paths, and sensors/monitors.
+* 12:30pm-1pm: Drafted email with questions and my background for Steve Ruberg.
+ * 1pm-3:30pm: WHOI Software Carpentry Python workshop. Wrapped up bash and began basic parts of python indexing and using jupyter.
+ * 3:30pm-5pm: Emailed Sheri White about her talk and to see if I could have some of the figures for my personal notes, set up meeting about professional development with another SSF, watched R/V Neil Armstrong 2016 cruise video.
+ * 5pm-6pm: Livestream about ocean exploration work occurring in Thunder Bay National Marine Sanctuary (most of Lake Huron is not mapped to resolution < 80m).
+ * 6pm-7:30pm: Defensive driving courese certification (100% final exam accuracy on 1 attempt), final emails. 
