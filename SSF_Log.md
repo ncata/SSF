@@ -44,10 +44,10 @@
 
 ## 06/10/2021
 * 9am-11am: Meeting with Chris Sherwood. Recorded to-do list and began making the rgb2gray function in jupyter notebook. Must find how PIL uses grayscale (luminosity possibly)
-* 11am-12pm: Reviewed Great Lakes Environmental Research Laboratory (GLERL) Lake Michigan Field Station (LMFS) information. LMFS is located in Muskegon, MI. Based on the potential of support from GLERL due to 12 resident staff, proximity to Lansing, and webcam position(s) this is currently the /#1 field site prospect. Calibrated tech.
+* 11am-12pm: Reviewed Great Lakes Environmental Research Laboratory (GLERL) Lake Michigan Field Station (LMFS) information. LMFS is located in Muskegon, MI. Based on the potential of support from GLERL due to 12 resident staff, proximity to Lansing, and webcam position(s) this is currently the \#1 field site prospect. Calibrated tech.
 * 1pm-2pm: Began working with .las files showing area surrounding LMFS from NOAA Digital Coast Dataviewer in CloudCompare. Began cross-referencing .las files with Google Earth Imagery. Briefly read USGS UTM fact sheet to re-familiarize myself with UTM coordinates/false northings.
 * 2pm-3:30pm: Machine Learning group meeting. Focus on condensing tools and increasing access for non-academic managers was really cool.
-* 3:30pm-5:35pm: Found an image of the LMFS com tower (alleged location of webcam). It seems offset from where I would have expected it to be based on images from View /#1. Completed CloudCompare tutorial. Ordered more .las files. Charted locations in my notes of points that I will use to attempt to derive the horizontal angle/potentially elevation of webcams with.
+* 3:30pm-5:35pm: Found an image of the LMFS com tower (alleged location of webcam). It seems offset from where I would have expected it to be based on images from View \#1. Completed CloudCompare tutorial. Ordered more .las files. Charted locations in my notes of points that I will use to attempt to derive the horizontal angle/potentially elevation of webcams with.
 
 ## 06/11/2021
 * 9am-11am: SurfRCat review and tutorial. Must try at home with a wired internet connection to see if that helps at the "sorting tiles" phase of lidar download.
@@ -68,5 +68,13 @@
 * 9am-10:30am: Meeting with Dr. Sherwood. Received weekly to do list and revealed/reviewed image alignment code.
 * 10:30am-12pm: cloned coastcam.py and coastcamfuncs and pulled updates to SSF_2021 and dash_doodler repos. Reviewed CIRN Understanding Image Geometrics Photogrammetry section.
 * 12:30pm-1:15pm: Completed notes on Photogrammetry.
-* 1:30pm-4pm: WHOI Software Carpentry Python Workshop: Went over using git bash and bash commands. Learned a few new tricks and had good review/background on how git works on basic level. 
+* 1:30pm-4pm: WHOI Software Carpentry Python Workshop: Went over using git bash and bash commands. Learned a few new tricks and had good review/background on how git works on basic level.
 * 4pm-5pm: Installed Hydrogen package for Atom. Wrote questions and sorted them by importance (primary, secondary, tertiary) for Steve Ruberg meeting on Thursday morning. Filled out tentative hourly schedule for upcoming week.
+
+## 06/15/21
+* 9am-11am: Email updates, wrote image translation registration function in a .py file to test __main__ functions, read about the application of __main__ functions.
+* 2pm-3pm: GLERL Muskegon station metadata review. Found the "hidden" view \#6 in the past 10 days webpage. Located the beach as being a zoomed in view south of the harbor.
+* 3pm-4pm: Downloaded Muskegon GLERL images and made a presentation. Updated Muskegon LMFS notes. Made a few very fast "maps" from downloaded Google Earth images, did a quick dry run of slides content and review of webcam notes to prep for CoastCam meeting.
+* 4pm-5pm: CoastCam meeting. Introductions, what we want to learn from the group over the summer, and GL camera slides. Jenna brought up optical wave gauging as a potential use for the cameras. Muskegon could be a good test site because it has a ReCON buoy that collects wave data offshore of the cameras at a depth of 72 feet. This could be used to test the model.
+* 5pm-6pm: Renewed scouting of ReCON researched infrastructure, looking specifically for what buoys collected wave data. Must remember to make a new notes page to record this information. Thunder Bay island ReCON station has very interesting views of a rocky beach with a rock "bar" ("shoal?" must brush up on my coastal morphology) likely no deeper than chest depth. However, access to this site is difficult due to the necessity of a watercraft for access and distance from Lansing. Could be worth discussing with Dr. Sherwood/Steve Ruberg. MSU GEO dept.'s Theuerkauf Lab does have a boat on GLs. Fall research is in Lake Huron so I could try and reach out and see if the lab has already collected any data that could be useful/has plans to do so this summer.
+* 6pm-7pm: Set up defensive drivers course and got translation function to run, however it is not properly displaying the __main__ output in jupyter notebook so I will make a new notebook tomorrow to see if that will work better. 
