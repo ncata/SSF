@@ -86,4 +86,21 @@
  * 1pm-3:30pm: WHOI Software Carpentry Python workshop. Wrapped up bash and began basic parts of python indexing and using jupyter.
  * 3:30pm-5pm: Emailed Sheri White about her talk and to see if I could have some of the figures for my personal notes, set up meeting about professional development with another SSF, watched R/V Neil Armstrong 2016 cruise video.
  * 5pm-6pm: Livestream about ocean exploration work occurring in Thunder Bay National Marine Sanctuary (most of Lake Huron is not mapped to resolution < 80m).
- * 6pm-7:30pm: Defensive driving courese certification (100% final exam accuracy on 1 attempt), final emails. 
+ * 6pm-7:30pm: Defensive driving courese certification (100% final exam accuracy on 1 attempt), final emails.
+
+## 06/17/2021
+* 9am-10am: Meeting with Steve Ruberg and Chris Sherwood. Access to ReCON archives is approved pending selection of an appropriate delivery method via either a hard drive or a cloud service. Chance of touring GLERL headquarters and/or doing field work with NOAA is a possibility.
+* 10am-11am: Updated notes from CIRN's Image Processing-Photogrammetry section. Drafted a follow up email for Steve.
+* 11am-12pm: Went over abstracts of optical wave gauge and run up papers. Prepped them for printing through MSU library.
+* 12:30-1:00pm: Spoke with other SSFs about using NumPy interpolation functions, applications of GIS/RS, using MATLAB/MATLAB software carpentry workshop days, and introduced myself to new fellows and discussed our research topics.
+* 1pm-2pm: Looked over slides from yesterdays presentation and followed links that Sheri White sent me.
+* 2pm-5pm: Printed papers in MSU library and began annotating the Stockton reading.
+
+## 06/18/2021
+* 9:30am-10am: Update SSF_Log and review emails, tasks to be completed ahead of next week, and the days schedule.
+* 10am-11am: Complete notes on CIRN Data Processing Image Geometrics library. Reviewed CoastCam repo functions.
+* 12pm-12:30: Continued familiarizing myself with CoastCam functions.
+* 1pm-2pm: SSF call about careers and finding jobs outside of traditional research.
+* 2pm-3pm: Began annotating "Optical wave gauging using deep neural networks" (Buscombe et al, 2019)
+* 3pm-4pm: WHOI/MIT JP Jelly talks.
+* 4pm-6pm: SSF Trivia Night on gather.town.
