@@ -104,3 +104,10 @@
 * 2pm-3pm: Began annotating "Optical wave gauging using deep neural networks" (Buscombe et al, 2019)
 * 3pm-4pm: WHOI/MIT JP Jelly talks.
 * 4pm-6pm: SSF Trivia Night on gather.town.
+
+## 06/21/2021
+* 8:45-9:30am: Meeting with Chris, recorded tasks for the next couple days
+* 9:30am-10am: Emailed SSF Research and Communication Plan to Kama. Reviewed last weeks notes and planned out work schedule.
+* 10am-12pm: Continued annotating "Optical wave gauging using deep neural networks" (Buscombe et al, 2019).
+* 12pm-2:30pm: WHOI Software Carpentry Python Workshop
+* 3:45pm-5:10pm: Finished annotating "Optical wave gauging using deep neural networks" (Buscombe et al, 2019). 
