@@ -110,4 +110,12 @@
 * 9:30am-10am: Emailed SSF Research and Communication Plan to Kama. Reviewed last weeks notes and planned out work schedule.
 * 10am-12pm: Continued annotating "Optical wave gauging using deep neural networks" (Buscombe et al, 2019).
 * 12pm-2:30pm: WHOI Software Carpentry Python Workshop
-* 3:45pm-5:10pm: Finished annotating "Optical wave gauging using deep neural networks" (Buscombe et al, 2019). 
+* 3:45pm-5:10pm: Finished annotating "Optical wave gauging using deep neural networks" (Buscombe et al, 2019).
+
+## 06/22/2021
+* 12pm-2:30pm: Annotated "Empirical parameterization of setup, swash, and runup" (Stockdon et al., 2006)
+* 2:30-3pm: Created Buoy_Statistics .ipynb and began reviewing buoy data.
+* 3pm-4pm: Explored .txt files of buoy historical data. Tried to find the source 99.00 values in all Great Lakes datasets. Note: No spectral wave data is collected in Great Lakes.
+* 4pm-5pm: Coastcams Summer Lab meeting. Connected Stockdon equation to operational forecasts/models. Still not completely grounded in the physics of the equation and TWL, but I have a much better understanding and supplemented some coastal morphology knowledge I already had.
+* 5pm-7pm: Wrote up workflow and code for making a useable pandas dataframe from NCDB .txt files. Note, there are GitHub repos that could do this faster, but I am trying to make it a learning process and produce my own code. Connecting image timestamps will be interesting depending on how the archives are stored/how extensive they are. Even after removing a lot of values because they contained 99.00, the 2020 dataset on the Muskegon buoy still had over 13,000 rows.
+* 7pm-8pm: Compiled notes and further questions in NDCB Buoy information page. Scanned through the DuneX proposal (Will need to a deeper dive later, really interesting work is going to be done!).  
