@@ -127,3 +127,9 @@
 * 1pm-3:35pm: WHOI Software Carpentry workshop
 * 4pm-5:15pm: Woodwell Climate Research Center presentation on Indigenous Perspectives in climate science.
 * 5:15pm-6:10pm: Used excel to compare GLERL .csv data that did not go through NDCB post-processing with the .txt files from the NDCB.
+
+## 06/24/2021
+* 9am-10:20am: Meeting with Chris Sherwood, paths foward for Buoy_Statistics.ipynb and computing power.
+* 10:20am-2:30pm: Use python and pandas library to change the date column of a dataframe into a datetime object, remove unwanted data, and plot data using matplotlib.
+* 3:00pm-5:10pm: Read through the example code and update my code. Wrote the wavetxt2waveframe function that takes a list of .txt files from the NDCB and creates a single dataframe of all the relevant wave data. (Could be updated to include average period or specral data for other uses. Could be upgraded by using urls to autoamte the compliling of the list of .txt files)
+* 5:10pm-5:30pm: Update SSF_Log, wrote out Friday tasks, Tested wavetxt2waveframe function (it works!)
