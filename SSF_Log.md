@@ -133,3 +133,18 @@
 * 10:20am-2:30pm: Use python and pandas library to change the date column of a dataframe into a datetime object, remove unwanted data, and plot data using matplotlib.
 * 3:00pm-5:10pm: Read through the example code and update my code. Wrote the wavetxt2waveframe function that takes a list of .txt files from the NDCB and creates a single dataframe of all the relevant wave data. (Could be updated to include average period or specral data for other uses. Could be upgraded by using urls to autoamte the compliling of the list of .txt files)
 * 5:10pm-5:30pm: Update SSF_Log, wrote out Friday tasks, Tested wavetxt2waveframe function (it works!)
+
+## 06/25/2021
+* 9am-: 10amEmailed Thomas Bell at WHOI regarding the code he used to perform spatial unmixing for The Nature Conservancy. Reviewed Google Earth Engine requirements and python API (might be worth learning some javascript later down the line).  Checked open time for PIV card pickup and activation at the USDA station.
+* 10am-11am: Looked through Stack Overflow and pandas docs to find different types of statistical analysis.
+* 11am-1:30pm: Made lists of standard deviations for each month on the Muskegon webcam. Used a dictionary to write code that called the month of highest wave variability based on the pandas dataframe.var() function.
+* 2pm-4pm: Went through geturl Stack Overflow page and looked at webcam urls to record similarities. Updated NDCB buoy notes and wrote mapped out new ways to work with the data.
+* 4pm-7pm: SSF meetup on gather.town.
+
+## 06/28/2021
+* 9am-9:40am: Meeting with Chris Sherwood and Rich Signell. Discussed access to AWS cloud computing capabilities. Set a plan for code to be done this week while waiting for data and cloud access.
+* 10am-11am: Reviewed .ipynb files. Helped with fridge malfunction in Hardisty lab (all samples were saved!).
+* 11am-12pm: Updated SSF_Log, reviewed emails, started AWS application, organized upcoming workflow for creating scatterplots, histograms, and running statistical analyses on buoy data using numpy's statistics.
+* 1pm-1:30pm: Began working on Buoy_Statistics notebook using numpy arrays.
+* 1:30pm-3:00pm: WHOI MATLAB tutorial
+* 3:00pm-5:10pm: Created a scatter plot and performed a linear regression on the buoy data (positive correlation). Plotted wave height for each year's October data (very strange results). 
