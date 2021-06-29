@@ -147,4 +147,11 @@
 * 11am-12pm: Updated SSF_Log, reviewed emails, started AWS application, organized upcoming workflow for creating scatterplots, histograms, and running statistical analyses on buoy data using numpy's statistics.
 * 1pm-1:30pm: Began working on Buoy_Statistics notebook using numpy arrays.
 * 1:30pm-3:00pm: WHOI MATLAB tutorial
-* 3:00pm-5:10pm: Created a scatter plot and performed a linear regression on the buoy data (positive correlation). Plotted wave height for each year's October data (very strange results). 
+* 3:00pm-5:10pm: Created a scatter plot and performed a linear regression on the buoy data (positive correlation). Plotted wave height for each year's October data (very strange results).
+
+## 06/29/2021
+* 10am-11:10am: SSF "What happens next?" chat.
+* 11:10am-1pm: Went to credentialing office on and picked up my PIV card and activated it. Read about the artificial intelligence, machine learning, and deep learning
+* 1pm-4pm: Created the plots for the Buoy_Statistics notebook
+* 4pm-5pm: USGS Summer Lab Meeting (Great talks, glad people like Lorde)
+* 5pm-6pm: Edited Buoy_Statistics plots, organized notebook, added a histogram for wave period, updated weekly task list. 
