@@ -154,4 +154,18 @@
 * 11:10am-1pm: Went to credentialing office on and picked up my PIV card and activated it. Read about the artificial intelligence, machine learning, and deep learning
 * 1pm-4pm: Created the plots for the Buoy_Statistics notebook
 * 4pm-5pm: USGS Summer Lab Meeting (Great talks, glad people like Lorde)
-* 5pm-6pm: Edited Buoy_Statistics plots, organized notebook, added a histogram for wave period, updated weekly task list. 
+* 5pm-6pm: Edited Buoy_Statistics plots, organized notebook, added a histogram for wave period, updated weekly task list.
+
+## 06/30/2021
+* 8:15-9:15am: Respond to emails, submitted WHOI Poseidon form,
+* 9:15am-10:45am: Tried to place a line of best fit on Buoy_Statistics histograms. Read up on different theoretical distributions.
+* 11am-12:30pm: SSF Lecture by Carolyn Tepolt (crabs are surprisingly cool).
+* 1:15pm-3:15pm: WHOI MATLAB training
+* 3:15pm-4pm: Updated SSF_Log, planned Thursday taskflow, HPC application.
+
+## 07/1/2021
+* 9am-9:30am: Meeting with Chris received list of tasks.
+* 10am-12pm: Looked through buoy statistics notebook for spelling errors and planned presentation of material. AWS application submission.
+* 1pm-2pm: Read materials for the WHOI Ethics workshop.
+* 2pm-3:40pm: WHOI ethics workshop
+* 4pm-5:30pm: Plotted lines onto histograms (concluded that they did not add to the scientific value of the graphic and so removed them from the notebook). Updated SSF_Log, shared calendar, read through scipy docs.  
