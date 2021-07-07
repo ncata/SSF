@@ -169,3 +169,18 @@
 * 1pm-2pm: Read materials for the WHOI Ethics workshop.
 * 2pm-3:40pm: WHOI ethics workshop
 * 4pm-5:30pm: Plotted lines onto histograms (concluded that they did not add to the scientific value of the graphic and so removed them from the notebook). Updated SSF_Log, shared calendar, read through scipy docs.  
+
+## 07/02/2021
+* 10am-12pm: Created SSF Presentation slides, identified images and graphs, and practiced presentation. Added mental notes as presenter notes will not be availbale to me.
+* 1pm-2pm: Update notes, find patterns in glerl urls.
+* 2pm-3pm: Picked up hard drive from Steve and chatted about getting more images/touring lab/
+* 3pm-5:30pm: Intermittently looked through images on the hard drive and adjsuted the presentation.
+
+## 07/06/2021
+* 9am-10am: Created getimages function notebook and reviewed urllib.request docs.
+* 10am-11am: Respond to emails, update SSF_Log, plot bell curves on histogram.
+* 11am-12:30pm: USGS Center meeting and presentation by Olivia De Meo: "Carbon Cycling in Chesapeake Bay, Antarctica, and more!"
+* 1pm-2pm: Meetin with Tom Bell to discuss spectral unmixing and using Google Earth Engine.
+* 2pm-3pm: Looked through imagery across all years for MI City.
+* 3pm-4pm: Wrote questions for CoastCam meeting, updated notes based on intial impressions and observations of imagery from the hard drive.
+* 4pm-5pm: CoastCam Summer Lab Meeting and major Microsoft Teams malfunctions (I'll get it figured out eventually)
