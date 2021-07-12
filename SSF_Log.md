@@ -184,3 +184,35 @@
 * 2pm-3pm: Looked through imagery across all years for MI City.
 * 3pm-4pm: Wrote questions for CoastCam meeting, updated notes based on intial impressions and observations of imagery from the hard drive.
 * 4pm-5pm: CoastCam Summer Lab Meeting and major Microsoft Teams malfunctions (I'll get it figured out eventually)
+
+## 07/07/2021
+* 9:30am-10am: Emails and slide prep
+* 10am-10:45am: SSF Maching Learning Chat
+* 10:45am-12:05pm: SSF Lecture from Dr. Neel Aluru "Oceans and Human Health: Understanding the mechanisms of toxicity of chemical stressors in the envrionment"
+* 12:05pm-1pm: Presentation practice and review session
+* 1pm-2:30pm: Revised presentation and reviewedw imagery/Buscombe et al., 2020 paper
+* 3:30pm-6pm: Further presentation fine tuning based on Chris' reccomendations, installed MS Visual Studio 2019 Community, CUDA 11.4, and set up tensorflow-gpu envrionment.
+
+## 07/08/2021
+* 9am-9:45am: Meeting with Chris. Plan to run owg_train notebook and write function to get buoy images.
+* 10am-11am: Forked OpticalWaveGauging_DNN from Dan's GitHub and began local clone. Rewrote base url formula for webcam images to go straght to an image.
+* 11am-1pm: Enabled wsl2 to run on my computer and use the one liner wget command to replace the need for web scaping with the buoyimages notebook.
+* 1:55pm-5:20pm: SSF Midsummer Presentations and Post presentation debrief.
+* 5:20pm-6pm: Started running notebook (tensorflow is properly installed and the GPU is detected, all there is to do now is run it); printed ML papers sent by Dan.
+* 7pm-7:30pm: Ran OWG-train notebook
+
+## 07/09/2020:
+* 9am-10am: Routine secretarial work. Caught up on emails and revised notes.
+* 10am-12pm: Began annotating and taking notes on "70 years of machine learning in geoscience in review" (Dramsch, 2020).
+* 1pm-2pm: Read through 2 EOS articles relevant to machine learning.
+* 2pm-3pm: Finished annotations and notes on Dramsch, 2020.
+* 3pm-4pm: Looked through config.json file Chris sent and noted the strucutre of the truncated csv example that is needed to train OWGs.
+* 4pm-5pm: Began planning code for writing my own csv files
+
+## 07/12/2021
+* 7am-9am: Made prepdata.ipynb and tested code that I had planned out Friday through weekend.
+* 9am-9:45am: Meeting with Chris. Sent my code so he could work out an interpolation example.
+* 10am-11am: Added image adjustment code to the prepdata notebook.
+* 11am-12:30pm: Worked code into the prepmicityimgs function.
+* 1pm-2pm: Removed errors and ensured that OWG images were saved in the appropriate path.
+* 2pm-3pm: SSF correspondence, updated SSF_Log, ran prepmicityimgs function for 2017-2020. Continued lit review. 
