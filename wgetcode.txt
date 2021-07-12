@@ -1,0 +1,10 @@
+wget -r -e robots=off -m -np -nH --cut-dirs=4 -R "index.html*
+
+wget -r -e robots=off -m -np -nH --cut-dirs=4 -R "index.html*
+wget -r -e robots=off -m -np -nH --cut-dirs=4 -R "index.html" https://www.glerl.noaa.gov/res/recon/data/2018/huron-tbi/webcam/07/
+
+ubuntu is the linux distribution that I want
+https://www.omgubuntu.co.uk/how-to-install-wsl2-on-windows-10
+
+
+choclatey
