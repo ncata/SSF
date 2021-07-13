@@ -215,4 +215,9 @@
 * 10am-11am: Added image adjustment code to the prepdata notebook.
 * 11am-12:30pm: Worked code into the prepmicityimgs function.
 * 1pm-2pm: Removed errors and ensured that OWG images were saved in the appropriate path.
-* 2pm-3pm: SSF correspondence, updated SSF_Log, ran prepmicityimgs function for 2017-2020. Continued lit review. 
+* 2pm-3pm: SSF correspondence, updated SSF_Log, ran prepmicityimgs function for 2017-2020. Continued lit review.
+
+## 07/13/2021
+* 7:30am-8am: Looked through demo_t_interp.ipynb file. Lingering questions over how it functions but each question has an answer after some thought so I am not overly concerned.
+* 8am-8:30am: Emailed Chris re: buoy code and planned how to write a .csv file to feed the OWG.
+* 8:30am-9am: 
