@@ -220,4 +220,11 @@
 ## 07/13/2021
 * 7:30am-8am: Looked through demo_t_interp.ipynb file. Lingering questions over how it functions but each question has an answer after some thought so I am not overly concerned.
 * 8am-8:30am: Emailed Chris re: buoy code and planned how to write a .csv file to feed the OWG.
-* 8:30am-9am: 
+* 8:30am-9am: Created csv_interpoloation.ipynb, organized files, read through Chris' email.
+* 9am-10:30am: Wrote interpolators and seperated data from October 2017. Filled notebook and sent Chris a follow up email.
+* 10:30am-12pm: Continued work on csv_interpoloation notebook and attended SSF whathappensnext chat.
+* 12:30pm-2:00pm: Meeting with Chris to get notebook code running properly.
+* 2pm-3pm: Cleaned and commented code ion csv_interpoloation notebook (made pathnames generic variables ) and began prepping OWG_train notebook for using GLERL data.
+* 3pm-4pm: Prepped and ran OWG_train, wall time of 7min 24s on a base of 345 images. Error is significantly higher than example but could be made better by filtering through images to remove dark images and images that are completely blurred out.
+* 4pm-5pm: Summer lab meeting. Photogrammety Basics lecture from Meg Palmston (really interesting, wish I had more of a head for math).
+* 5pm-5:30pm: Sent research updates to Chris and SSF. Updated SSF_Log. Recorded additions that need to be made to csv_interpoloation notebook tomorrow. 
