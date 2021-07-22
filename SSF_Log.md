@@ -1,4 +1,4 @@
-# Nick Catanzaro 2021 SSF Activity Log  
+unfortunately# Nick Catanzaro 2021 SSF Activity Log  
 
 ## 06/03/21  
 * 9am-10:20am: Meeting with Dr. Sherwood. Set up Github and installed/tried out Git.   
@@ -217,7 +217,7 @@
 * 1pm-2pm: Removed errors and ensured that OWG images were saved in the appropriate path.
 * 2pm-3pm: SSF correspondence, updated SSF_Log, ran prepmicityimgs function for 2017-2020. Continued lit review.
 
-## 07/13/2021
+## 07/13/2021:
 * 7:30am-8am: Looked through demo_t_interp.ipynb file. Lingering questions over how it functions but each question has an answer after some thought so I am not overly concerned.
 * 8am-8:30am: Emailed Chris re: buoy code and planned how to write a .csv file to feed the OWG.
 * 8:30am-9am: Created csv_interpoloation.ipynb, organized files, read through Chris' email.
@@ -227,4 +227,46 @@
 * 2pm-3pm: Cleaned and commented code ion csv_interpoloation notebook (made pathnames generic variables ) and began prepping OWG_train notebook for using GLERL data.
 * 3pm-4pm: Prepped and ran OWG_train, wall time of 7min 24s on a base of 345 images. Error is significantly higher than example but could be made better by filtering through images to remove dark images and images that are completely blurred out.
 * 4pm-5pm: Summer lab meeting. Photogrammety Basics lecture from Meg Palmston (really interesting, wish I had more of a head for math).
-* 5pm-5:30pm: Sent research updates to Chris and SSF. Updated SSF_Log. Recorded additions that need to be made to csv_interpoloation notebook tomorrow. 
+* 5pm-5:30pm: Sent research updates to Chris and SSF. Updated SSF_Log. Recorded additions that need to be made to csv_interpoloation notebook tomorrow.
+
+## 07/14/2021:
+* 11am-12pm: SSF Lecture
+* 1:30pm-3pm: WHOI MATLAB workshops
+* 5pm-7pm: Added in darkness filter to the csv_interpoloation notebook, experimented with sharpness function.
+
+## 07/15/2021:
+* 8am-9am: Addtions to csv_interpoloation notebook, mainly writing an appropriate header onto the training csv.
+* 9am-10am: Meeting with Chris, discussed potential conferences and moving forward with the notebook.
+* 10:30am-12:30pm: Began work editing and optimizing functions. Annotated "Machine learning components in deterministic models: hybrid synergy in the age of data" (Goldstein and Coco, 2015)
+* 12:30pm-3pm: Edited optimizer functions. Spent significant time trying to write code that would make new version files of prep images before csv_interpoloation filtering so that the same year could be used to try different parameters like new sizes and resolutions.
+* 3pm-6:30pm: SSF Midsummer lectures and post-presentation meeting.
+* 6:30pm-8pm: Continued work optimizing functions. Read about Ocean Survey work, found AGU Machine learning session and looked at Ocean Sciences 2022 page. Emailed Kama about extra time on the Tioga and updated SSF_Log
+
+## 07/16/2021:
+* 9am-9:30am: WHOI Occupancy Forms.
+* 9:30am-10:30am: Edited OWG notebooks and set image specification for the second trial.
+* 10:30am-11am: Looked through AGU and Ocean Science conference information.
+* 11am-12pm: Optimized and reorganized functions in prep_images.ipynb by adding additional inputs that give the user more control. Further inputs to automate webcam view separation will become necessary when Muskegon imagery becomes available.
+* 1pm-2pm: Reviewed midsummer presentation slides and added reuslts from Trial1 to the slides.
+* 2pm-3pm: Worked on Trial1 metdata and updating notes. Looked through Dan's OpticalWaveGauging_DNN repo to better understand the code.
+* 3pm-5pm: Hardisty Lab Meeting Slides. Presented and discussed my research with people in the lab. Note: Always good to field questions from friendly people as it helps identify gaps in my own knowledge.
+* 7pm-8pm: Ran Trail2 and recorded metadata.
+Note: There were more work-related activities on this day, unfortunately planning and recording was interrupted by travel to Huron National Forest.
+
+## 07/20/2021:
+* 9am-10am: Corresponded with Steve Ruberg about getting Muskegon imagery onto hard drive. Reviewed emails and week ahead.
+* 10am-11am: Met with Steve and updated him on my Trial1 and Trial2 results. Copied images from hard drive and gave him the drive with the expectation of picking it up again with Muskegon imagery.
+* 11am-12pm: SSF whathappensnext chat
+* 1pm-2pm: Began work on first draft of AGU abstract, put OWG Trial2 figures into a slide for the SummerLab meeting.
+* 2pm-3pm: Finished first draft. Began looking for web resources and wikis about deep convolutional neural networks.
+* 3pm-4pm: SSF chat, Sent out AGU first draft after another revision,
+* 4pm-5pm: Summer Lab meeting, must look into wave data and dig into the thesis that Meg Palmston shared.
+* 6pm-7pm: Wrap up work and emails. Reviewed suggested abstract edits.
+
+## 07/21/2021:
+* 9am-10am: Reviewed emails and suggested edits of AGU abstract. Ran wget command to download Muskegon buoy images
+* 10am-11am: Reviewed Dan's OpticalWaveGauging_DNN notebook and util.py file functions.
+* 11am-12pm: SSF lecture
+* 1pm-2pm: Updated SSF_Log, Looked through links in the whathappensnext chat, accepted suggested revisions and began filling in blanks with buoy information. Sent an email to check in with Chris about abstract progress.
+* 2pm-3pm: Ran prep_images code on copied images to match what was on the hard drive. Continued revising abstract and began applying model to new images.
+* 3pm-6:45pm: Ran the model on all images from 2019, just the images from Sept. and Oct. 2019 and the images from Sept. and Oct. 2017. 2017 images had accuarate predictions whereas 2019 images did not. This leads me to believe the model may not be accurate year to year due to changes of the camera angle. Images including the horizon and excluding the horizon were used in the case of 2019 to see if that had a significant impact on reducing or improving the accuracy of predictions, it did not.  
