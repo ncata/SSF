@@ -260,7 +260,7 @@ Note: There were more work-related activities on this day, unfortunately plannin
 * 1pm-2pm: Began work on first draft of AGU abstract, put OWG Trial2 figures into a slide for the SummerLab meeting.
 * 2pm-3pm: Finished first draft. Began looking for web resources and wikis about deep convolutional neural networks.
 * 3pm-4pm: SSF chat, Sent out AGU first draft after another revision,
-* 4pm-5pm: Summer Lab meeting, must look into wave data and dig into the thesis that Meg Palmston shared.
+* 4pm-5pm: Summer Lab meeting, must look into wave data and dig into the thesis that Meg Palmston shared. Must review repo Christie H shared with me
 * 6pm-7pm: Wrap up work and emails. Reviewed suggested abstract edits.
 
 ## 07/21/2021:
@@ -269,4 +269,15 @@ Note: There were more work-related activities on this day, unfortunately plannin
 * 11am-12pm: SSF lecture
 * 1pm-2pm: Updated SSF_Log, Looked through links in the whathappensnext chat, accepted suggested revisions and began filling in blanks with buoy information. Sent an email to check in with Chris about abstract progress.
 * 2pm-3pm: Ran prep_images code on copied images to match what was on the hard drive. Continued revising abstract and began applying model to new images.
-* 3pm-6:45pm: Ran the model on all images from 2019, just the images from Sept. and Oct. 2019 and the images from Sept. and Oct. 2017. 2017 images had accuarate predictions whereas 2019 images did not. This leads me to believe the model may not be accurate year to year due to changes of the camera angle. Images including the horizon and excluding the horizon were used in the case of 2019 to see if that had a significant impact on reducing or improving the accuracy of predictions, it did not.  
+* 3pm-6:45pm: Ran the model on all images from 2019, just the images from Sept. and Oct. 2019 and the images from Sept. and Oct. 2017. 2017 images had accurate predictions whereas 2019 images did not. This leads me to believe the model may not be accurate year to year due to changes of the camera angle. Images including the horizon and excluding the horizon were used in the case of 2019 to see if that had a significant impact on reducing or improving the accuracy of predictions, it did not.  
+
+## 07/22/2021:
+* 8:30am-9am: Prepared to discuss the lack of accuracy in model estimates with Chris by arranging necessary scatterplots to illustrate the issue. Updated notes and thought of potential reasons and solutions for and to the problem. Reviewed slack event reminders and updated calendar.
+* 9am-10am: Meeting with Chris, got plan to continue with abstract and training investigations
+* 10am-11am: Discussed WHOI visit with Hardisty lab members. Optimized and moves code from csv_interpolation notebook into functions. Spent time reviewing crs code and also stack exchange code to find r value, scipy or skitlearn are best bets for fitting data and getting an r^2 error metric for abstract.
+* 11am-12pm: Ran functions. Must remember to add functions into my SSF_funcs.py file. Removed 30% of data as validation.
+* 12pm-1:40pm: REU Geosciences career panel. Aaron Pina (program scientist from NASA) (tilde over n) has offered to chat about opportunities and Ted Bigford (former NOAA habitat manager and MSU alumn) asked me to reach out to him. Do by end of the day.
+* 2pm-3:40pm: SSF Poster workshops
+* 3:40pm-4:10pm: Trained model using the mcyv22017(validationtrain).csv dataset. Saved weights as a different name, must remember to do this for all following trainings.  Note, do not need to change owgtrainimgs because the config commands will only find images with valid filenames in the appropriate csv's.
+* 4:10pm-5:45pm: Used the new model to get error metrics for estimates from 2019 and the independent 2017 data. Revised abstract and sent to Chris. I should revise my code to not create a seperate owg folder. Since the config file only uses images listed in the csv, if I put the quality controls in the prepimages function and only did interpolation in the function where quality control currently occurs, I could streamline the process and not have to have so many copies of images on my computer/tons of confusing files in my directory.
+* 5:45pm-6pm: Updated SSF_Log. Note, get GitHub repo up to date with local files immediately tomorrow morning. 
