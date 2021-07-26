@@ -1,0 +1,12 @@
+OWG Notes:
+Trial 2:
+  Time: 2017 (all available data)
+  Wall time: 38min 6s.
+  Resolution: 256x256
+  Number of images: 819
+  Notes:
+    Second trial using GLERL imagery.
+     All night images were removed
+     Images that were below the mean sharpness for the entire year (~3.5) were removed.
+     Test data's mean absolute error was less than the training dataset by the 75th epoch.
+     Predictions did not exceed an error of .2 meters +/- relative to actual values.

@@ -1,0 +1,12 @@
+{
+  "samplewise_std_normalization" : true,
+  "samplewise_center"  : true,
+  "weights_path" : "C:/njc/src/SSF/OWG/waveheight_weights_model1_16batch.best.nearshore.hdf5",
+  "input_csv_file"     : "C:/njc/src/SSF/OWG/mcyv22019(test).csv",
+  "category"           : "H",
+  "im_size"            : 256,
+  "image_direc"        : "C:/njc/src/mcyimgs/2019_imgpreptest/view2",
+  "prc_lower_withheld": 0,
+  "prc_upper_withheld": 0,
+  "file_ext": "jpg"
+}

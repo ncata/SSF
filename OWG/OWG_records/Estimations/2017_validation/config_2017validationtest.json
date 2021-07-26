@@ -1,0 +1,12 @@
+{
+  "samplewise_std_normalization" : true,
+  "samplewise_center"  : true,
+  "weights_path" : "C:/njc/src/SSF/OWG/OWG_records/Estimations/2017_validation/mcy_H_weights_modelvalidation_16batch.best.nearshore.hdf5",
+  "input_csv_file"     : "C:/njc/src/SSF/OWG/OWG_records/Estimations/2017_validation/mcyv22017(30validation).csv",
+  "category"           : "H",
+  "im_size"            : 256,
+  "image_direc"        : "C:/njc/src/mcyimgs/2017_imgprep1/owgtrainimgs",
+  "prc_lower_withheld": 0,
+  "prc_upper_withheld": 0,
+  "file_ext": "jpg"
+}

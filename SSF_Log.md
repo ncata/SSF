@@ -280,4 +280,20 @@ Note: There were more work-related activities on this day, unfortunately plannin
 * 2pm-3:40pm: SSF Poster workshops
 * 3:40pm-4:10pm: Trained model using the mcyv22017(validationtrain).csv dataset. Saved weights as a different name, must remember to do this for all following trainings.  Note, do not need to change owgtrainimgs because the config commands will only find images with valid filenames in the appropriate csv's.
 * 4:10pm-5:45pm: Used the new model to get error metrics for estimates from 2019 and the independent 2017 data. Revised abstract and sent to Chris. I should revise my code to not create a seperate owg folder. Since the config file only uses images listed in the csv, if I put the quality controls in the prepimages function and only did interpolation in the function where quality control currently occurs, I could streamline the process and not have to have so many copies of images on my computer/tons of confusing files in my directory.
-* 5:45pm-6pm: Updated SSF_Log. Note, get GitHub repo up to date with local files immediately tomorrow morning. 
+* 5:45pm-6:30pm: Updated SSF_Log. Note, get GitHub repo up to date with local files immediately tomorrow morning. Sent emails to career panelists who indicated that they would speake further with me. Must get more information from Chris about how he had such a cool grad school experience.
+
+## 07/22/2021:
+* 8:45am-9:35am: Created third draft of AGU abstract, revised and incorporated Chris' comments, shortened links and edited to get under 2,000 characters (no spaces and not including the header). Sent draft to co-authors
+* 9:35am-10am: Followed up with Dan and asked about CNN pooling. Looked at AGU information. Reviewed planner. Planned times for meetings with Aaron Pina (NASA) and Ted Bigford (Former NOAA, now retired w/Coastal Society)
+* 10am-10:30am: WHOI Trip logistics
+* 10:30am-11am: Setting up meetings within WHOI SSF channels for next week.
+* 11am-12pm: Updated calendar and notes.
+* 12:30pm-5:10pm: Moved QC to prepowgimages function and added automated view folder separation. Simplified folder creation and directory workflow as apart of csv_interpolation functions. General function automation and optimization. Why are nighttime images/low quality images still able to sneak their way into the dataset?
+
+## 07/26/2021:
+* 8:40am-9am: Checked emails, updated calendar, figured out that the QC bug from last week was caused by appending to a list within a for loop and then using said list to calculate a metric that each image had to meet. This resulted in the metric changing as the loop ran allowing some night images that were taken with bright lights to get past the darkness and sharpness quality controls.
+* 9am-10am: Meeting with Chris. Got to do list for the week and also talked about grad school. On top of everything else that Chris has done, he has also sailed around the Atlantic Ocean in a 72 foot wooden schooner built in 1932 for the DuPont family to compete in the Bermuda Race. Wow.
+* 10am-11:30am: Tested QC code fix.
+* 11:30am-12:40pm : WHOI SSF visit details meeting
+* 1:40pm-5:22pm: Reviewed buoy imagery, emailed Aaron Pina, reviewed WHOI Packing List, optimized functions (coding was slow today)
+* 5:22pm-6pm: Implemented MAPE to estimated folder. R2 score was .68 yet MAPE was 40%. Tomorrow I will use my higher resolution imagery with more stringent QC to train a new model and then see if I can reduce MAPE. 

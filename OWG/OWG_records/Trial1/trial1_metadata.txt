@@ -1,0 +1,8 @@
+OWG Notes:
+Trial1:
+  Time: OCT. 2017
+  Wall time: 7min 24s.
+  Resolution: 128x128
+  Number of images: 354
+  Notes:
+    First trial using GLERL imagery. No image filtration besides selecting for images in October of 2017
