@@ -1,0 +1,12 @@
+{
+  "samplewise_std_normalization" : true,
+  "samplewise_center"  : true,
+  "weights_path" : "C:/njc/src/SSF/OWG/mcy_H_weights_trial4_13batch.best.nearshore.hdf5",
+  "input_csv_file"     : "C:/njc/src/SSF/OWG/OWG_records/Trial3/mcyv22017(30trial3).csv", 
+  "category"           : "H",
+  "im_size"            : 512,
+  "image_direc"        : "C:/njc/src/mcyimgs/2017_imgprep3/view2",
+  "prc_lower_withheld": 0,
+  "prc_upper_withheld": 0,
+  "file_ext": "jpg"  
+}
