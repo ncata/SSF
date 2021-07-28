@@ -2,6 +2,7 @@ OWG Notes:
 Trial 2:
   Time: 2017 (all available data)
   Wall time: 38min 6s.
+  Batch size: 16
   Resolution: 256x256
   Number of images: 819
   Notes:

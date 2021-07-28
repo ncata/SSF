@@ -1,4 +1,4 @@
-unfortunately# Nick Catanzaro 2021 SSF Activity Log  
+quantitivelyunfortunately# Nick Catanzaro 2021 SSF Activity Log  
 
 ## 06/03/21  
 * 9am-10:20am: Meeting with Dr. Sherwood. Set up Github and installed/tried out Git.   
@@ -296,4 +296,22 @@ Note: There were more work-related activities on this day, unfortunately plannin
 * 10am-11:30am: Tested QC code fix.
 * 11:30am-12:40pm : WHOI SSF visit details meeting
 * 1:40pm-5:22pm: Reviewed buoy imagery, emailed Aaron Pina, reviewed WHOI Packing List, optimized functions (coding was slow today)
-* 5:22pm-6pm: Implemented MAPE to estimated folder. R2 score was .68 yet MAPE was 40%. Tomorrow I will use my higher resolution imagery with more stringent QC to train a new model and then see if I can reduce MAPE. 
+* 5:22pm-6pm: Implemented MAPE to estimated folder. R2 score was .68 yet MAPE was 40%. Tomorrow I will use my higher resolution imagery with more stringent QC to train a new model and then see if I can reduce MAPE.
+
+## 07/27/2021:
+* 9am-10am: Sent draft email and reviewed inbox. Looked at first leg of route to WHOI, Updated ssf_funcs.py
+* 10am-11am : Trained using dataset with most stringent QC (3.5 sharpness and 85 intensity) and highest resolution at 512. Only 600 images made it into the dataset. 30% will be held for independent validation. During training 60% will be for training and 40% will be for testing, GPU processor at around 85% capacity even with reduced batch size. Epochs took about 37seconds to train. Wrote questions for conversation with Tom Bigford. Read through Christie's abstract recommendations.
+* 11am-12pm: SSF What Happens Next chat
+* 12pm-1pm: Model is returning a file not found error for my weights file so I must restart. 14 batch size returns an error so moving up from 8 but down to 13.
+* 1pm-2pm: Model trained and had a career advising conversation with Tom Bigford. Conclusions: I should invest time in finding the right grad program and I need to stand by what I want to do. If I can't find a program that fits it then I will design my own.
+* 2pm-3pm: Calculated error statistics, updated notes and SSF chats and log.
+* 3pm-4pm: Prepared for the CoastCam meeting by reviewing the past weeks activities and identifying the issues in model performance quantitively.
+* 4pm-5pm: CoastCam Summer Lab meeting
+
+## 07/28/2021:
+* 9am-10am: Read about the advantages and disadvantages of micro-batches, reviewed emails, WHOI visit logistics.
+* 10am-10:30am: SSF Machine Learning Chat
+* 11am-12:15pm: WHOI SSF Presentation: "Climate change, mitigation, and resilience: from the ocean to the coasts" Shannon Valley. Very interesting talk, especially the parts about fermium and blue carbon. Note: MacCredy(?) et al. 2018-9 discusses the field of blue carbon and potential research gaps.
+* 1pm-2pm: Reviewed and updated notes and planned for Trial 4. Reviewed WHOI packing list. Got Tioga date switched to Thursday to align with the birthday.
+* 2pm-3:20pm: Ran Trial 4. 40% of data is used for training while 60% is used for validation. Looked into graduate programs at UW. Reviewed Christies comments on my abstract. Updated trial metadata.
+* 3pm-4pm: Emailed Steve and Tom, reviewed WHOI email, went over visit schedule.
