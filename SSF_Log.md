@@ -324,6 +324,9 @@ Note: There were more work-related activities on this day, unfortunately plannin
 * 10:30am-12:00pm: Read the ocampor notebook on image quality assessment. Reviewed emails re: MSU Geography, Accessed USGS laptop using old username/password. USGS accounts can be accessed with PIV card login, however the user account Nicholas Catanzaro (Affiliate) cannot be accessed using the PIV card. Login attempts return: Domain not available, try again later.
 * 1pm-2pm: SSF meetup Zoom call. Reminder: create excel spreadsheet from trial metadata files this evening.
 
+## 08/10-13/2021:
+* Work consisted of ~4 hours a day of meetings, emails, and limited literature reviews while I was on vacation.
+
 ## 08/16/2021:
 * 8:45am-10am: Emails, began moving images onto D: drive, read Pangeo.io page.
 * 10am-11am: Continued researching Pangeo and email work.
@@ -331,4 +334,5 @@ Note: There were more work-related activities on this day, unfortunately plannin
 * 1pm-1:30pm: Finished reading Pangeo Tutorial page. I have not managed to find a gallery that might work for me. Also, I was under the impression that Pangeo was a USGS HPC rather than a community. Dask shows promise in being very helpful by avoiding memory errors. I am keeping the WHOI Poseidon HPC in mind. I have never used it or SLURM but it could be another resource for computing power. I am still confused on why I need the USGS laptop for Pangeo as opposed to my own. Maybe it uses a Pangeo environment in conjunction with AWS cloud computing resources that are contracted out to USGS. Will ping Chris with this either this evening or tomorrow morning now that I have a better understanding of what Pangeo is.  
 * 1:30pm-2:10pm: Read through the Landsat 8 Pangeo envrionment to see how images were being processed using Pangeo and how AWS was utilized. Not as helpful as I had hoped unfortunately.
 * 2:10pm-2:45pm: Wrote out a research intent statement to help focus interests post REU. Began looking at previous uses of WHOI Poseidon to train deep neural networks.
-* 2:45pm-3pm: Backed up repo.  
+* 2:45pm-3pm: Backed up repo.
+* 3pm-3:50pm: Finished moving all photos to personal D: drive. Emails. Read through WHOI Poseidon guide. Should figure out if this is the route I want to use soon so that I could schedule IT assistance in submitting a job request.  
