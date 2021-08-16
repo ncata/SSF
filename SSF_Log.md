@@ -315,3 +315,20 @@ Note: There were more work-related activities on this day, unfortunately plannin
 * 1pm-2pm: Reviewed and updated notes and planned for Trial 4. Reviewed WHOI packing list. Got Tioga date switched to Thursday to align with the birthday.
 * 2pm-3:20pm: Ran Trial 4. 40% of data is used for training while 60% is used for validation. Looked into graduate programs at UW. Reviewed Christies comments on my abstract. Updated trial metadata.
 * 3pm-4pm: Emailed Steve and Tom, reviewed WHOI email, went over visit schedule.
+
+## 07/29/2021-08/07/2021:
+* Travel and WHOI SSF Visit
+
+## 08/09/2021:
+* 9am-10:30am: Meeting with Chris Sherwood, reading on SSF final poster presentation (Aug. 26), emails re: PIV cards and some final poster presentations.
+* 10:30am-12:00pm: Read the ocampor notebook on image quality assessment. Reviewed emails re: MSU Geography, Accessed USGS laptop using old username/password. USGS accounts can be accessed with PIV card login, however the user account Nicholas Catanzaro (Affiliate) cannot be accessed using the PIV card. Login attempts return: Domain not available, try again later.
+* 1pm-2pm: SSF meetup Zoom call. Reminder: create excel spreadsheet from trial metadata files this evening.
+
+## 08/16/2021:
+* 8:45am-10am: Emails, began moving images onto D: drive, read Pangeo.io page.
+* 10am-11am: Continued researching Pangeo and email work.
+* 11am-12pm: Updated calendar. Looked for a Pangeo environment that I could modify for the OWG. Must get more familiar with Dask and scheduling. The tutorial gallery has useful info. The Gude for Scientists also helped.
+* 1pm-1:30pm: Finished reading Pangeo Tutorial page. I have not managed to find a gallery that might work for me. Also, I was under the impression that Pangeo was a USGS HPC rather than a community. Dask shows promise in being very helpful by avoiding memory errors. I am keeping the WHOI Poseidon HPC in mind. I have never used it or SLURM but it could be another resource for computing power. I am still confused on why I need the USGS laptop for Pangeo as opposed to my own. Maybe it uses a Pangeo environment in conjunction with AWS cloud computing resources that are contracted out to USGS. Will ping Chris with this either this evening or tomorrow morning now that I have a better understanding of what Pangeo is.  
+* 1:30pm-2:10pm: Read through the Landsat 8 Pangeo envrionment to see how images were being processed using Pangeo and how AWS was utilized. Not as helpful as I had hoped unfortunately.
+* 2:10pm-2:45pm: Wrote out a research intent statement to help focus interests post REU. Began looking at previous uses of WHOI Poseidon to train deep neural networks.
+* 2:45pm-3pm: Backed up repo.  
